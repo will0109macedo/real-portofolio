@@ -1,0 +1,13 @@
+.intro{
+    display: flex;
+    height: 100vh;
+    background-color: #abdbe3;
+}
+
+.intro-left {
+    flex: 1;
+}
+
+.intro-right {
+    flex: 1;
+}
