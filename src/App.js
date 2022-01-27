@@ -1,10 +1,14 @@
 import './App.css';
 import Intro from './components/intro/Intro';
+import About from './components/about/About';
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
     <div>
-    <h1><Intro /></h1>
+    <Intro />
+    <About />
+    <Contact />
     </div>
   );
 }
