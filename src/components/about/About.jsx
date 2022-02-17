@@ -12,14 +12,15 @@ const About = () => {
         </div>
         <div className='about-right'>
             <h1 className='about-title'>
-            About Me</h1>
+            Ready to have your dream website?
+            </h1>
             <p className='about-sub'>
-            Subtitle here
+            Look no further
             </p>
             <p className='about-desc'>
-            Full length description here, maybe
-            a couple of sentences, maybe a whole,
-            parragraph. We'll see.
+            As a solo player or as part of a team, I'm
+            ready to provide my ingenuity and skills
+            to make <b><em>any</em></b> project a reality.
             </p>
         </div>
       </div>

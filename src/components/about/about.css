@@ -1,5 +1,5 @@
 .about {
-    height: 100vh;
+    height: 70vh;
     display: flex;
 }
 
@@ -13,6 +13,7 @@
 
 .about-right {
     flex: 1;
+    margin: 100px 20px 0px 30px;
 }
 
 .about-card {
@@ -45,4 +46,10 @@
     font-size: 30px;
     font-weight: 300;
     font-style: normal;
+}
+
+@media screen and (max-width: 480px) {
+    .about{
+        display: none;
+    }
 }

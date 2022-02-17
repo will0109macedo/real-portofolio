@@ -7,7 +7,7 @@ const Intro = () => {
     <div className="intro-left">
         <div className='intro-left-wrapper'>
             <h1 className='intro-intro'>
-            Hey there!, I am</h1>
+            Hello there!, I am</h1>
             <h2 className='intro-name'>
             Willard Macedo</h2>
          <div className='intro-title'>
@@ -21,9 +21,10 @@ const Intro = () => {
             </div>
          </div>
          <p className='item-description'>
-         As a React developer, I have many tools and 
+         First off, thank you for visiting my page. As a 
+         React developer, I have many tools and 
          skills under my belt that are going to be 
-         helpful in any type of job.
+         helpful in any type of project.
          </p>
         </div>
     </div>
